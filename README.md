@@ -1,6 +1,10 @@
 ![logo](https://github.com/JerryWingsky/JerryWingsky/blob/15b24c9e2687f48e1f1e7352d63e521c2fa88400/Profile%20Background.jpeg)
 <h1 align="center">Greetings, I'm Jerry Wingsky! 👋 </h1>
-<h3 align="center">Artificial Intelligence (AI) & Cybersecurity Enthusiast 🤖 || Figma & WIX Enthusiast 🙋‍♂ || UI/UX Enthusiast ⚙️ </h3>
+<h3 align="center">
+  Artificial Intelligence (AI) & Cybersecurity Enthusiast 🤖<br>
+  Figma & WIX Enthusiast 🙋‍♂️<br>
+  UI/UX Enthusiast ⚙️
+</h3>
 
 <img src="https://komarev.com/ghpvc/?username=JerryWingsky&color=yellowgreen&style=for-the-badge" alt="JerryWingsky" />
 
