@@ -1,41 +1,39 @@
-<h1 align="center">Hello, World! 👋, I'm Fardeen Sameer Khan</h1>
-<h3 align="center">Cybersecurity Enthusiast || 3D Artist || Game Design Explorer</h3>
+![logo](https://github.com/JerryWingsky/JerryWingsky/blob/15b24c9e2687f48e1f1e7352d63e521c2fa88400/Profile%20Background.jpeg)
+<h1 align="center">Greetings, I'm Jerry Wingsky! 👋 </h1>
+<h3 align="center">Artificial Intelligence (AI) & Cybersecurity Enthusiast 🤖 || Figma & WIX Enthusiast 🙋‍♂ || UI/UX Enthusiast ⚙️ </h3>
 
----
+<img src="https://komarev.com/ghpvc/?username=JerryWingsky&color=yellowgreen&style=for-the-badge" alt="JerryWingsky" />
 
-### 💻 About Me
+# About Me
+- **Perfectionist**. ✨
+- **3rd Year Student**. 🥷
+- Passionate about **Technology**, with a strong focus on **AI & Cyber**. 👨‍💻
+- I also enjoy crafting immersive **UI/UX Design** using **Figma** & **WIX** to bring creative digital experiences to life. 🙋‍♂
+- A **Computer Science Student** at **Taylor’s University**, currently specializing in **Artificial Intelligence (AI)** & **Extension in Cybersecurity**. 🎓
 
-🎓 I'm a Computer Science student at **Taylor’s University**, currently specializing in **Cybersecurity** with a **Minor in Game Design**. I’m passionate about solving complex problems, securing digital worlds, and creating immersive 3D experiences.
+# Fun Fact
+- From **Batam**, **Indonesia**. 🇮🇩
+- Nickname: **Jer**, **Si Paling Titik**, and **Si Paling Perfectionist**. 😎
 
-🛡️ My core strengths lie in building secure systems, identifying vulnerabilities, and applying ethical hacking techniques. I’m familiar with **IDS**, **system penetration testing**, and **secure coding practices** — always with a hands-on approach.
+# Tech Stack
 
-🎮 Besides tech, I’m also a proficient **3D artist** with skills in **Blender**, mixing creativity and logic to bring ideas to life.
-
----
-
-### 🧠 Tech Stack
-
-
-### 💻 Languages & Scripting
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 📚 Libraries
 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SymPy](https://img.shields.io/badge/-SymPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🗄️ Databases
 
@@ -43,18 +41,31 @@
 
 ### 🛡️ Cybersecurity Tools
 
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1072BA?style=for-the-badge&logo=cisco&logoColor=white)
+![HTTrack](https://img.shields.io/badge/-HTTrack-0A6A9F?style=for-the-badge&logo=html5&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/-VirtualBox-2A2A72?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-5E5C5C?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-7F7FFF?style=for-the-badge&logo=nmap&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white)
+![UNIX Command](https://img.shields.io/badge/-UNIX%20Command-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-7F7FFF?style=for-the-badge&logo=nmap&logoColor=white)
 
-### 🎮 Game Dev & 3D Art
+### 🧰 Software
 
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
----
-
-🔍 Seeking Opportunities:
-Currently seeking an internship related to Cyber Security to apply my skills and contribute to exciting projects. Open to connecting with fellow tech enthusiasts, recruiters, and professionals in the industry. Feel free to connect with me! Let’s explore opportunities together.
+# Social Media
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerrywingsky/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jrywsky/)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@jrywsky)
+[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://id.pinterest.com/JerryWingskyy/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JerryWingsky)
+[![Letterboxd](https://img.shields.io/badge/-Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/JerryWingsky/)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3XLzwxuMoa5l38yioXJbTj?si=11a5354f30364842&nd=1)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5ZvdgAzJHMHRudFqU17SEM?si=621455da8cdd44d1)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrywingsky18@gmail.com)
