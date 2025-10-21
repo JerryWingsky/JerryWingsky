@@ -76,3 +76,14 @@ UI/UX Design Enthusiast ⚙️
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3XLzwxuMoa5l38yioXJbTj?si=11a5354f30364842&nd=1)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5ZvdgAzJHMHRudFqU17SEM?si=621455da8cdd44d1)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrywingsky18@gmail.com)
+
+# Hackathon Experience
+
+| Position | Hackathon | Duration | Description | Link |
+|----------|-----------|----------|-------------|------|
+| Participant | ImagineHack<br>(AoT Club) | 2025 | • Participated in a **48-hour Hackathon** at **Taylor’s University**, developing a **Web App** using **Next.js**, **TypeScript**, **React**, and **MongoDB**.<br>• Led the **UI/UX Design** with **Figma**. | - |
+
+# Competition Experience
+| Position | Duration | Description | Link |
+|----------|----------|-------------|------|
+| Top 10 Finalist | 2022 | • Participated in a "**Photography Contest Global The Nature Conservancy 2022<br>(Yayasan Konservasi Alam Nusantara)**". | - |
