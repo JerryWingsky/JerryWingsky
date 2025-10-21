@@ -1,9 +1,11 @@
 ![logo](https://github.com/JerryWingsky/JerryWingsky/blob/15b24c9e2687f48e1f1e7352d63e521c2fa88400/Profile%20Background.jpeg)
 <h1 align="center">Greetings, I'm Jerry Wingsky! 👋 </h1>
 <h3 align="center">
-Artificial Intelligence (AI) & Cybersecurity Enthusiast 🤖<br>
-Figma & WIX Enthusiast 🙋‍♂️<br>
-UI/UX Enthusiast ⚙️
+
+<h3 align="center">
+Artificial Intelligence (AI) & Cybersecurity Enthusiast 🤖 <br>
+Figma & WIX Developer 🎨 <br>
+UI/UX Design Enthusiast ⚙️
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=JerryWingsky&color=yellowgreen&style=for-the-badge" alt="JerryWingsky" />
@@ -11,13 +13,14 @@ UI/UX Enthusiast ⚙️
 # About Me
 - **Perfectionist**. ✨
 - **3rd Year Student**. 🥷
-- Passionate about **Technology**, with a strong focus on **AI & Cyber**. 👨‍💻
+- Passionate about **Technology**, with a strong focus on **AI** & **Cyber**. 👨‍💻
 - I also enjoy crafting immersive **UI/UX Design** using **Figma** & **WIX** to bring creative digital experiences to life. 🙋‍♂
 - A **Computer Science Student** at **Taylor’s University**, currently specializing in **Artificial Intelligence (AI)** & **Extension in Cybersecurity**. 🎓
 
 # Fun Fact
 - From **Batam**, **Indonesia**. 🇮🇩
 - Nickname: **Jer**, **Si Paling Titik**, and **Si Paling Perfectionist**. 😎
+- When I’m not coding, I’m behind the camera, capturing life through my lens. I’m a **Hobbyist Photographer**. 📸
 
 # Tech Stack
 
