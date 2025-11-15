@@ -15,7 +15,7 @@ UI/UX Design Enthusiast ⚙️
 - **3rd Year Student**. 🥷
 - Passionate about **Technology**, with a strong focus on **AI** & **Cyber**. 👨‍💻
 - I also enjoy crafting immersive **UI/UX Design** using **Figma** & **WIX** to bring creative digital experiences to life. 🙋‍♂
-- A **Computer Science Student** at **Taylor’s University**, currently specializing in **Artificial Intelligence (AI)** & **Extension in Cybersecurity**. 🎓
+- A **CS Student** at **Taylor’s University**, currently specializing in **Artificial Intelligence (AI)** & **Extension in Cybersecurity**. 🎓
 
 # Fun Fact
 - From **Batam**, **Indonesia**. 🇮🇩
