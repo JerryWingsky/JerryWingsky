@@ -3,9 +3,10 @@
 <h3 align="center">
 
 <h3 align="center">
-Artificial Intelligence (AI) & Cybersecurity Enthusiast 🤖 <br>
-Figma & WIX Developer 🎨 <br>
-UI/UX Design Enthusiast ⚙️
+Artificial Intelligence (AI) & Cybersecurity Enthusiasts 🤖 <br>
+Java & Python Developers ⚙ <br>
+Figma UI/UX Enthusiasts 🎨 <br>
+Cyber Analyst 🥷 <br>
 </h3>
 
 <img src="https://komarev.com/ghpvc/?username=JerryWingsky&color=yellowgreen&style=for-the-badge" alt="JerryWingsky" />
