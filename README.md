@@ -52,13 +52,12 @@ Cyber Analyst 🥷 <br>
 ![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1072BA?style=for-the-badge&logo=cisco&logoColor=white)
 ![HTTrack](https://img.shields.io/badge/-HTTrack-0A6A9F?style=for-the-badge&logo=html5&logoColor=white)
 ![Oracle VirtualBox](https://img.shields.io/badge/-VirtualBox-2A2A72?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-5E5C5C?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-7F7FFF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![UNIX Command](https://img.shields.io/badge/-UNIX%20Command-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-7F7FFF?style=for-the-badge&logo=nmap&logoColor=white)
 
 ### 🧰 Software
 
