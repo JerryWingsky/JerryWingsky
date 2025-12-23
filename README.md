@@ -13,7 +13,7 @@ Cyber Analyst 🥷 <br>
 
 # About Me
 - **Perfectionist**. ✨
-- **3rd Year Student**. 🥷
+- **3rd Year/Final-Year Student**. 🥷
 - Passionate about **Technology**, with a **Strong Focus** on **AI & Cyber**. 👨‍💻
 - I also enjoy **Crafting Immersive UI/UX Design** using **Figma & WIX** to bring **Creative Digital Experiences to Life**. 🙋‍♂
 - A **CS Student** at **Taylor’s University**, currently **Specializing in Artificial Intelligence (AI) & Extension in Cybersecurity**. 🎓
