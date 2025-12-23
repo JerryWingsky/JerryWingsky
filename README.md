@@ -21,7 +21,7 @@ Cyber Analyst 🥷 <br>
 # Fun Fact
 - From **Batam**, **Indonesia**. 🇮🇩
 - Nickname: **Jer**, **Si Paling Titik**, and **Si Paling Perfectionist**. 😎
-- When I’m not **Coding**, I’m behind the **Camera**, **Ccapturing Life** through my **Lens**. I’m a **Hobbyist Photographer**. 📸
+- When I’m not **Coding**, I’m behind the **Camera**, **Capturing Life** through my **Lens**. I’m a **Hobbyist Photographer**. 📸
 
 # Tech Stack
 
