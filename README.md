@@ -81,7 +81,7 @@ Cyber Analyst 🥷 <br>
 
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
-| Participant | ImagineHack<br>(AoT Club) | 2025 | • Participated in a **48-Hour Hackathon** at **Taylor’s University**. <br> • Developing a **Web App**. <br> • Using **Next.js**, **TypeScript**, **React**, and **MongoDB**. <br> • Led the **UI/UX Design** with **Figma**. <br> • **Led & Managed the Front-End Development** for the **Website**.| - |
+| Participant | ImagineHack<br>(AoT Club) | 2025 | • Participated in a **48-Hour Hackathon** at **Taylor’s University**. <br> • Developing a **Web App**. <br> • Using **Next.js**, **TypeScript**, and **React** **(Front-End)**. <br> **MongoDB** for **Back-End**. <br> • Led the **UI/UX Design** with **Figma**. <br> • **Led & Managed the Front-End Development** for the **Website**.| - |
 | Participant | Isek.AI ACG Hackathon | 2025 | • Participated in a **​24-Hour Hackathon** at **Taylor's University**. <br> • Developing a **Game** that **Looks Dumb** but it's **Actually Genius**. <br> • Using **C# (C Sharp)**. <br> • Led the **UI/UX Design** with **Figma**. <br> • Led the assisted in **Idea Shaping & Team Workflow**. | - |
 
 # Competition Experience
