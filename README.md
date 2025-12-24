@@ -78,7 +78,6 @@ Cyber Analyst 🥷 <br>
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrywingsky18@gmail.com)
 
 # Hackathon Experience
-
 | Position | Hackathon | Duration | Description | Link |
 |----------|-----------|----------|-------------|------|
 | Participant | ImagineHack<br>(AoT Club) | 2025 | • Participated in a **48-Hour Hackathon** at **Taylor’s University**. <br> • Developing a **Web App**. <br> • Using **Next.js**, **TypeScript**, and **React** **(Front-End)**. <br> • **MongoDB** for **Back-End**. <br> • Led the **UI/UX Design** with **Figma**. <br> • **Led & Managed the Front-End Development** for the **Website**.| - |
@@ -88,3 +87,5 @@ Cyber Analyst 🥷 <br>
 | Position | Duration | Description | Link |
 |----------|----------|-------------|------|
 | Top 10 Finalist | 2022 | • Participated in a "**Photography Contest Global The Nature Conservancy 2022<br>(Yayasan Konservasi Alam Nusantara)**". | - |
+
+
