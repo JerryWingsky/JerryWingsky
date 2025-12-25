@@ -88,4 +88,8 @@ Cyber Analyst 🥷 <br>
 |----------|----------|-------------|------|
 | Top 10 Finalist | 2022 | • Participated in a "**Photography Contest Global The Nature Conservancy 2022<br>(Yayasan Konservasi Alam Nusantara)**". | - |
 
+# Workshop & Competition Experience
 
+| Year | Event | Description | Link |
+|------|-------|-------------|------|
+| 2022 | Photography Contest – Global The Nature Conservancy (Yayasan Konservasi Alam Nusantara) | Selected as a **Top 10 Finalist** in a global photography contest focused on nature conservation and environmental awareness. | - |
