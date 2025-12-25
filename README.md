@@ -86,7 +86,7 @@ Cyber Analyst 🥷 <br>
 # Competition Experience
 | Position | Duration | Description | Link |
 |----------|----------|-------------|------|
-| Top 10 Finalist | 2022 | • Participated in a "**Photography Contest Global The Nature Conservancy 2022<br>(Yayasan Konservasi Alam Nusantara)**". | - |
+| Top 10 Finalist | 2022 | • Participated in a "**Photography Contest Global The Nature Conservancy 2022 <br> (Yayasan Konservasi Alam Nusantara)**". | - |
 
 # Workshop & Competition Experience
 
