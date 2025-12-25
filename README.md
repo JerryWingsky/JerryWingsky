@@ -92,4 +92,4 @@ Cyber Analyst 🥷 <br>
 
 | Year | Event | Description | Link |
 |------|-------|-------------|------|
-| 2022 | Photography Contest – Global The Nature Conservancy (Yayasan Konservasi Alam Nusantara) | Selected as a **Top 10 Finalist** in a global photography contest focused on nature conservation and environmental awareness. | - |
+| 2024 | CoinClan × Taylor's University - Web 3.0 AI, Blockchain & Cryptocurrency | I joined the CoinClan × Taylor's University - Web 3.0 AI, Blockchain & Cryptocurrency. An event conducted by CoinClan × Taylor's University. | [Certificate](https://www.linkedin.com/in/jerrywingsky/overlay/honors/298684664/multiple-media-viewer/?profileId=ACoAAEfQVSEBQZ_Px99wiljqzMm2CVaePj-NnlU&treasuryMediaId=1746203748699) |
