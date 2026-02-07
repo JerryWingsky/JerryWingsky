@@ -98,7 +98,7 @@ Cyber Analyst 🥷 <br>
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![UNIX Command](https://img.shields.io/badge/-UNIX%20Command-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-### 🧰 Software
+### 🧰 Software Tools & Platforms
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
