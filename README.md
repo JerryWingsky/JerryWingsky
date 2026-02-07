@@ -106,7 +106,7 @@ Cyber Analyst 🥷 <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # Social Media
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerrywingsky/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jerrywingsky/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jrywsky/)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@jrywsky)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://id.pinterest.com/JerryWingskyy/)
@@ -115,6 +115,7 @@ Cyber Analyst 🥷 <br>
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3XLzwxuMoa5l38yioXJbTj?si=11a5354f30364842&nd=1)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5ZvdgAzJHMHRudFqU17SEM?si=621455da8cdd44d1)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerrywingsky18@gmail.com)
+[![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JerryWingsky)
 
 # Hackathon Experience
 | Position | Hackathon | Duration | Description | Link |
