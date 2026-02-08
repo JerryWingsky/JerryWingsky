@@ -107,6 +107,7 @@ Cyber Analyst 🥷 <br>
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/-NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+[![Zenodo](https://img.shields.io/badge/-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Wingsky%2C%20Jerry%22&l=list&p=1&s=10&sort=bestmatch)
 
 # Social Media
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jerrywingsky/)
