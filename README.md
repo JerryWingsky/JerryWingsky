@@ -88,8 +88,6 @@ Cyber Analyst 🥷 <br>
 
 ### 🛡️ Cybersecurity
 
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1072BA?style=for-the-badge&logo=cisco&logoColor=white)
-![HTTrack](https://img.shields.io/badge/-HTTrack-0A6A9F?style=for-the-badge&logo=html5&logoColor=white)
 ![Oracle VirtualBox](https://img.shields.io/badge/-VirtualBox-2A2A72?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -97,16 +95,18 @@ Cyber Analyst 🥷 <br>
 ![Nmap](https://img.shields.io/badge/-Nmap-7F7FFF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-1E1E1E?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![UNIX Command](https://img.shields.io/badge/-UNIX%20Command-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1072BA?style=for-the-badge&logo=cisco&logoColor=white)
+![HTTrack](https://img.shields.io/badge/-HTTrack-0A6A9F?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 🧰 Software Tools & Platforms
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/-NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/-NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 # Social Media
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jerrywingsky/)
