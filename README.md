@@ -4,7 +4,7 @@
 
 <h3 align="center">
 Artificial Intelligence (AI) & Cybersecurity Enthusiasts 🤖 <br>
-Java & Python Developers ⚙ <br>
+Java & Python & AI Developers ⚙ <br>
 Full Stack Web Developers ⚙ <br>
 UI/UX Designer (Figma) 🎨 <br>
 Cyber Analyst 🥷 <br>
