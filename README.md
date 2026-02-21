@@ -24,7 +24,7 @@ Cyber Analyst 🥷 <br>
 - Nickname: **Jer**, **Si Paling Titik**, and **Si Paling Perfectionist**. 😎
 - When I’m not **Coding**, I’m behind the **Camera**, **Capturing Life** through my **Lens**. I’m a **Hobbyist Photographer**. 📸
 
-![Jerry Wingsky GitHub stats](https://github-readme-stats-six-swart-52.vercel.app/api?username=JerryWingsky&show_icons=true&theme=tokyonight&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&bg_color=0d1117&border_color=30363d)
+![Jerry Wingsky GitHub stats](https://github-readme-stats-six-swart-52.vercel.app/api?username=JerryWingsky&show_icons=true&theme=tokyonight&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&bg_color=0d1117&border_color=30363d&cache_seconds=0)
 
 # Tech Stack
 
