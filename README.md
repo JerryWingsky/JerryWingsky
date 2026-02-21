@@ -10,11 +10,15 @@ UI/UX Designer (Figma) 🎨 <br>
 Cyber Analyst 🥷 <br>
 </h3>
 
+---
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JerryWingsky&color=yellowgreen&style=for-the-badge" alt="JerryWingsky" />
 
 ![Jerry Wingsky GitHub stats](https://github-readme-stats-six-swart-52.vercel.app/api?username=JerryWingsky&show_icons=true&theme=tokyonight&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff&bg_color=0d1117&border_color=30363d&cache_seconds=0)
 </div>
+
+---
 
 # About Me
 - **Perfectionist**. ✨
