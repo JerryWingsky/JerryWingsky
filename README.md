@@ -1,4 +1,9 @@
 ![logo](https://github.com/JerryWingsky/JerryWingsky/blob/15b24c9e2687f48e1f1e7352d63e521c2fa88400/Profile%20Background.jpeg)
+
+<p align="center">
+  <img width="628" alt="Screenshot 2026-07-12 224640" src="https://github.com/user-attachments/assets/4273efb4-5126-4e42-9efd-0bbf93344fdf">
+</p>
+
 <h1 align="center">Greetings, I'm Jerry Wingsky! 👋 </h1>
 <h3 align="center">
 
